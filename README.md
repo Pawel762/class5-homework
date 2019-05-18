@@ -1,4 +1,4 @@
-### *Running this script will load the wine.data in to a table-like format with the appropritat column headings* ###
+### *Running this script will load the wine.data in to a table-like format with the appropritate column headings* ###
 
 ## dataset-processor1.py ##
 
